@@ -9,7 +9,7 @@
 ![CodeWars](https://www.codewars.com/users/lukaszynal/badges/micro)
 
 Hi, I'm **Łukasz Szynal**. 
-My advantage is reliability and ease in establishing contacts with people. I am a stress-resistant person and I can work under time pressure. I am characterized by punctuality, consistency in action and responsibility in approaching my work. I'm able to work in a group as well as perform individual tasks. I am an ambitious person who's looking for a new challenges. During my professional experience, I have learned to be responsible, reliabile and patient.
+My advantage is reliability and ease in establishing contacts with people. I am a stress-resistant person and I can work under time pressure. I am characterized by punctuality, consistency in action and responsibility in approaching my work. I'm able to work in a group as well as perform individual tasks. I am an ambitious person who's looking for a new challenges. During my professional experience, I have learned to be responsible, reliabile and patient. 
 
 ## 🏫 Education
 
