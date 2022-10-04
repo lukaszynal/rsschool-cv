@@ -1,2 +1,1 @@
-# rsschool-cv
- 
+https://lukaszynal.github.io/rsschool-cv/cv
